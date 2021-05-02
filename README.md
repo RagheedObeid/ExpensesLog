@@ -1,6 +1,6 @@
-# proj2
+# Expenses Log App
 
-A new Flutter project.
+This Flutter project was a part of a code along where we made an app so you can keep a log of all the purchases you have made.
 
 ## Getting Started
 
